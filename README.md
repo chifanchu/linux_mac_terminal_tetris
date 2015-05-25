@@ -17,4 +17,4 @@ Control:
 - Up key: rotate
 - Down key: soft drop
 - Space: hard drop
-- Shift: swap
+- s: swap
